@@ -13,6 +13,7 @@ This project mainly concentrates on the multiple web3 wallet integrations using 
 - ReactJS
 - Wagmi Interface
 - Smart contract
+- EthersJS
 
 ## Commands useful for Hardhat Project:
 
